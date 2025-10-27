@@ -62,11 +62,14 @@ Msater / Slave 구조를 활용하여 읽기 부하를 줄였습니다.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </div>
 
+
 ### BE
 <div style="display:inline;">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-FF6F61?style=flat-square&logo=java&logoColor=white"/>
 </div>
+
 
 ### Infra / DevOps
 <div style="display:inline;">
